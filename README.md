@@ -15,6 +15,7 @@ This project implements a **Water Flow Meter** using an **Arduino** board, **Hal
 - **LCD 16x2 Display with I2C interface** (for displaying the flow rate and total water volume)
 - **Buzzer** (for alert when limit is exceeded)
 - **Wires, breadboard** (for connections)
+![Water Flow Meter](file:///Users/atharvnawal/Downloads/image.jpeg)
 
 ## Libraries Used:
 - **Wire.h**: For I2C communication with the LCD display.
